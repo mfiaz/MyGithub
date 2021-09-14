@@ -1,4 +1,4 @@
 package com.funzoft.mygithub
 
-class User {
+class User(val userName: String) {
 }
